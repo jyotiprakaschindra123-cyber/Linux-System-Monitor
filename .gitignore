@@ -35,8 +35,7 @@ obj/
 
 # Project specific
 logs/system_report.txt
-docs/interview_questions.md
-project_ai_context.md
+
 
 # Editor directories and files
 .idea/
