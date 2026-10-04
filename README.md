@@ -95,15 +95,3 @@ Linux-System-Monitor/
 └── README.md            # You are here!
 ```
 
----
-
-## 🤝 Contributing & Future Plans
-Right now, this is mostly a personal educational project, but I plan on eventually adding:
-- Real-time CPU usage percentage calculations.
-- An ncurses-based UI (like `htop`).
-- Network bandwidth monitoring.
-
-Feel free to fork the repo, read through the code, and learn alongside me. Feedback, suggestions, and pull requests are always welcome! 
-
----
-*Built with coffee and curiosity by [Your Name/Handle].*
